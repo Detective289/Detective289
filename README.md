@@ -3,7 +3,7 @@
 
 DynamicCraft Official Server
 
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/792977360827711518/widget.png?style=banner2">
+<a href="https://discord.dynamiccraft.xyz"><img src="https://discord.com/api/guilds/1133116729162207364/widget.json">
 
 
 ## 🌐 Socials:
